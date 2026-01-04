@@ -42,6 +42,7 @@
 <br/>
 
 ### 💬 Contact
-<a href="mailto:dlruddms326@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><br>
+<a href="https://mail.google.com/mail/?view=cm&to=dlruddms326@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
