@@ -3,9 +3,9 @@
 <br/>
 
 ### 🧩 Activities
-- **Google Developer Groups on Campus Sookmyung**  —  Member (2024.09 - 2025.06)
+- **Google Developer Groups on Campus Sookmyung**  —  Member (2024.09 - 2025.05)
 - **LikeLion Sookmyung 13th**  —  Backend Developer (2025.03 - 2025.12)
-- **Google Developer Groups on Campus Sookmyung**  —  Spring Team Member (Organizing Team) (2025.09 - Present)
+- **Google Developer Groups on Campus Sookmyung**  —  Spring Team Member (Organizing Team) (2025.09 - 2026.05)
 - **LikeLion Sookmyung 14th** — Vice President & Backend Mentor (2026.01 - Present)
 
 <br/>
